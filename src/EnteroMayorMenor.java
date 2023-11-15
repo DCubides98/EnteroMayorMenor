@@ -25,8 +25,8 @@ public static void main (String[] args) {
         //Math.max se utiliza para encontrar el valor máximo entre dos o más valores.
         int mayor = Math.max(Math.max(num1, num2), num3);
 
-        System.out.println("El menor número es: " + menor);
-        System.out.println("El mayor número es: " + mayor);
+        System.out.println("El numero menor es: " + menor);
+        System.out.println("El numero mayor es: " + mayor);
     }
 
     scanner.close();
